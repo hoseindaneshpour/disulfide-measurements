@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# This is a test to get the S-S distance and torsion angle for residues 215 and 348. 
-# Bad style in programming in that there are no error traps, if for example res1 would have a number 
-# pointing to a non-Cys residue which has no SG atom
-
 # In[30]:
 
 
